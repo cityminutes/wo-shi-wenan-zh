@@ -2,7 +2,3 @@ interface:
   display_name: "我是文案"
   short_description: "透過品牌訪談建立核心敘事系統並生成高質感繁體中文文案"
   default_prompt: "使用 $ai-brand-storytelling-zh 訪談我並建立完整的品牌核心敘事系統。"
-interface:
-  display_name: "我是文案"
-  short_description: "透過品牌訪談建立核心敘事系統並生成高質感繁體中文文案"
-  default_prompt: "使用 $wo-shi-wenan-zh 訪談我並建立完整的品牌核心敘事系統。"
